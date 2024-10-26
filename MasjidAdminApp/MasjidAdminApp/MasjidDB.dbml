@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="MasjidDB" Class="MasjidDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ALIIPPPP\SQLEXPRESS;Initial Catalog=MasjidDB;Integrated Security=True;Encrypt=False;Trust Server Certificate=True" SettingsObjectName="MasjidAdminApp.Properties.Settings" SettingsPropertyName="MasjidDBConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.InventarisTable" Member="InventarisTables">
+    <Type Name="InventarisTable">
+      <Column Name="IdBarang" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NamaBarang" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="KategoriBarang" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="TanggalPembelian" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Jumlah" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Keterangan" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.KegiatanTable" Member="KegiatanTables">
+    <Type Name="KegiatanTable">
+      <Column Name="IdKegiatan" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NamaKegiatan" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="TanggalKegiatan" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Deskripsi" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="PenanggungJawab" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Pemasukan" Member="Pemasukans">
+    <Type Name="Pemasukan">
+      <Column Name="IdPemasukan" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TanggalWaktuPemasukan" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="SumberPemasukan" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="NamaDonatur" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="JumlahPemasukan" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="KeteranganTambahan" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Pengeluaran" Member="Pengeluarans">
+    <Type Name="Pengeluaran">
+      <Column Name="IdPengeluaran" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TanggalWaktuPengeluaran" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="KategoriPengeluaran" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="JumlahPengeluaran" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="KeteranganTambahan" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PengurusTable" Member="PengurusTables">
+    <Type Name="PengurusTable">
+      <Column Name="IdPengurus" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NamaPengurus" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="JabatanPengurus" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="KontakPengurus" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="AlamatPengurus" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.UserTable" Member="UserTables">
+    <Type Name="UserTable">
+      <Column Name="UserID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Username" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="FullName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="UniqueCode" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

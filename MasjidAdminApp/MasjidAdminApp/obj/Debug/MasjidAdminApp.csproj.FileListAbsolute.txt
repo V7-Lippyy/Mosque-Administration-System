@@ -1,0 +1,52 @@
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\bin\Debug\MasjidAdminApp.exe.config
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\bin\Debug\MasjidAdminApp.exe
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\bin\Debug\MasjidAdminApp.pdb
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.csproj.AssemblyReference.cache
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.Properties.Resources.resources
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.csproj.GenerateResource.cache
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.exe
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.pdb
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.MainForm.resources
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.RegisterForm.resources
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.LoginForm.resources
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.ForgotPasswordForm.resources
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.ResetPasswordForm.resources
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.MainFeatureForm.resources
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.PengurusForm.resources
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.InputPengurusForm.resources
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.KeuanganForm.resources
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.InputPemasukanForm.resources
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.PemasukanForm.resources
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.InputPengeluaranForm.resources
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.PengeluaranForm.resources
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.InputInventarisForm.resources
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.InventarisForm.resources
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.KegiatanForm.resources
+C:\Users\PERSONAL\source\repos\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.InputKegiatanForm.resources
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\bin\Debug\MasjidAdminApp.exe.config
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\bin\Debug\MasjidAdminApp.exe
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\bin\Debug\MasjidAdminApp.pdb
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.csproj.AssemblyReference.cache
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.ForgotPasswordForm.resources
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.InputInventarisForm.resources
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.InputKegiatanForm.resources
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.InputPemasukanForm.resources
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.InputPengeluaranForm.resources
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.InputPengurusForm.resources
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.InventarisForm.resources
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.KegiatanForm.resources
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.KeuanganForm.resources
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.LoginForm.resources
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.MainFeatureForm.resources
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.MainForm.resources
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.PemasukanForm.resources
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.PengeluaranForm.resources
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.PengurusForm.resources
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.Properties.Resources.resources
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.RegisterForm.resources
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.ResetPasswordForm.resources
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.csproj.GenerateResource.cache
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.csproj.CoreCompileInputs.cache
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.exe
+C:\Users\alifq\Downloads\Migrasi Backup\MasjidAdminApp\MasjidAdminApp\obj\Debug\MasjidAdminApp.pdb

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="MasjidDB">
+  <DataContextMoniker Name="/MasjidDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="dc4edef5-cc19-40a6-ba57-ac6659121984" absoluteBounds="2.5, 1, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/MasjidDBDataContext/InventarisTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="882453e8-61f5-4388-a4f0-a6f408b51606" absoluteBounds="2.515, 1.46, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3c0fd5f5-e796-4526-8dd6-58beadffe665" absoluteBounds="0.625, 3.25, 2, 1.9631982421875">
+      <DataClassMoniker Name="/MasjidDBDataContext/KegiatanTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5e35f5b5-2204-4606-add9-6a58e2b6d346" absoluteBounds="0.64000000000000012, 3.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d4e07221-98f7-46d8-a3c3-da0022f84fad" absoluteBounds="5.75, 1.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/MasjidDBDataContext/Pemasukan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2904e00e-0ff2-4345-819f-dd7dc19bb0c6" absoluteBounds="5.765, 2.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f63ff1b0-d601-4e09-90da-f5cdfb989ddb" absoluteBounds="6.25, 5, 2, 1.9631982421875">
+      <DataClassMoniker Name="/MasjidDBDataContext/Pengeluaran" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0fd202f6-4e09-4de5-8bf1-6c514b19b767" absoluteBounds="6.265, 5.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bffc92a2-d013-462b-ac42-954d85340c61" absoluteBounds="3.25, 4, 2, 1.9631982421875">
+      <DataClassMoniker Name="/MasjidDBDataContext/PengurusTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8c967591-07d8-437c-aa00-c5ba258833b6" absoluteBounds="3.2649999999999997, 4.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5302f5a9-df30-4641-9d13-0747fc43001a" absoluteBounds="2.125, 6, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/MasjidDBDataContext/UserTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="40efe20f-00d5-48f6-9139-00e05c508ef6" absoluteBounds="2.14, 6.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

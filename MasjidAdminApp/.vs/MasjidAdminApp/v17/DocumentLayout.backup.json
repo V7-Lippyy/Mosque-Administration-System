@@ -1,0 +1,1768 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\pengeluaranform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\pengeluaranform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\pemasukanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\pemasukanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\kegiatanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\kegiatanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\inventarisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\inventarisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|c:\\users\\alifq\\downloads\\migrasi backup\\masjidadminapp\\masjidadminapp\\masjiddb.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddb.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\inputinventarisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\inputinventarisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\inputinventarisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\inputinventarisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\pemasukanform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\pemasukanform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\keuanganform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\keuanganform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MasjidAdminApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|c:\\users\\alifq\\downloads\\migrasi backup\\masjidadminapp\\masjidadminapp\\pemasukanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\pemasukanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\pengeluaranform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\pengeluaranform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\keuanganform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\keuanganform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\inputpengeluaranform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\inputpengeluaranform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\kegiatanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\kegiatanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\Properties\\desktop.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MasjidAdminApp\\Properties\\desktop.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\properties\\buttonmasuk.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\properties\\buttonmasuk.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\Properties\\1000_F_329615169_SwGTOJhkIZ69ihuS4JLwXN7rjmXCoZ26.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MasjidAdminApp\\Properties\\1000_F_329615169_SwGTOJhkIZ69ihuS4JLwXN7rjmXCoZ26.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\resetpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\resetpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\pengurusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\pengurusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\resetpasswordform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\resetpasswordform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\pengurusform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\pengurusform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset11.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset11.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset11.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset11.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset11.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset11.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset11.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset11.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset10.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset10.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset10.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset10.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset10.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset10.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset10.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset10.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset9.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset9.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset9.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset9.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset9.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset9.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset9.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset9.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset8.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset8.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset8.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset8.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset8.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset8.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset7.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset7.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset7.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset7.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset7.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset7.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset6.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset6.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset6.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset6.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset6.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset6.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset5.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset5.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset5.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset5.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset5.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset5.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset4.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset4.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset4.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset4.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset4.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset4.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset3.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset3.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset3.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset3.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset3.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset3.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset2.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset2.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset2.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset2.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset2.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset2.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset1.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset1.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset1.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset1.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\masjiddbdataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\masjiddbdataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\inventarisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\inventarisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\inputpengurusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\inputpengurusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\inputpengurusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\inputpengurusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\inputkegiatanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\inputkegiatanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\inputkegiatanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\inputkegiatanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\inputpengeluaranform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\inputpengeluaranform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\pengeluaranform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\pengeluaranform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\inputpemasukanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\inputpemasukanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\pengurusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\pengurusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\mainfeatureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\mainfeatureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\mainfeatureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\mainfeatureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\resetpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\resetpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\forgotpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\forgotpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\forgotpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\forgotpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\kegiatanform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\kegiatanform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\inventarisform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\inventarisform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\inputpemasukanform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\inputpemasukanform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\mainfeatureform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\mainfeatureform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\inputkegiatanform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\inputkegiatanform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\inputinventarisform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\inputinventarisform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\inputpengeluaranform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\inputpengeluaranform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\inputpengurusform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\inputpengurusform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\masjidadminapp\\forgotpasswordform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|solutionrelative:masjidadminapp\\forgotpasswordform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0544589F-A5C5-44DE-B65F-04D38AC505B7}|MasjidAdminApp\\MasjidAdminApp.csproj|c:\\users\\alifq\\downloads\\migrasi backup\\masjidadminapp\\masjidadminapp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KeuanganForm.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\KeuanganForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\KeuanganForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\KeuanganForm.cs",
+              "RelativeToolTip": "MasjidAdminApp\\KeuanganForm.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADwvz4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:51:01.643Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KegiatanForm.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\KegiatanForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\KegiatanForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\KegiatanForm.cs",
+              "RelativeToolTip": "MasjidAdminApp\\KegiatanForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAawCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:54:21.079Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InputPengeluaranForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputPengeluaranForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\InputPengeluaranForm.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\source\\repos\\MasjidAdminApp\\MasjidAdminApp\\InputPengeluaranForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\PERSONAL\\source\\repos\\MasjidAdminApp\\MasjidAdminApp\\InputPengeluaranForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:01:57.78Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KegiatanForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\KegiatanForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\KegiatanForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\KegiatanForm.cs [Design]",
+              "RelativeToolTip": "MasjidAdminApp\\KegiatanForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:46:14.983Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KeuanganForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\KeuanganForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\KeuanganForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\KeuanganForm.cs [Design]",
+              "RelativeToolTip": "MasjidAdminApp\\KeuanganForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T22:15:08.984Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InputInventarisForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputInventarisForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\InputInventarisForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputInventarisForm.cs [Design]",
+              "RelativeToolTip": "MasjidAdminApp\\InputInventarisForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:20:56.153Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PemasukanForm.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\PemasukanForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\PemasukanForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\PemasukanForm.cs",
+              "RelativeToolTip": "MasjidAdminApp\\PemasukanForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:03:43.475Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "PengeluaranForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\PengeluaranForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\PengeluaranForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\PengeluaranForm.cs [Design]",
+              "RelativeToolTip": "MasjidAdminApp\\PengeluaranForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:11:45.417Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PengeluaranForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\PengeluaranForm.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\PengeluaranForm.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\PengeluaranForm.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\PengeluaranForm.Designer.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAewLQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:49:22.541Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PemasukanForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\PemasukanForm.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\PemasukanForm.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\PemasukanForm.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\PemasukanForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:20:03.124Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "1000_F_329615169_SwGTOJhkIZ69ihuS4JLwXN7rjmXCoZ26.jpg",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\Properties\\1000_F_329615169_SwGTOJhkIZ69ihuS4JLwXN7rjmXCoZ26.jpg",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\Properties\\1000_F_329615169_SwGTOJhkIZ69ihuS4JLwXN7rjmXCoZ26.jpg",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\Properties\\1000_F_329615169_SwGTOJhkIZ69ihuS4JLwXN7rjmXCoZ26.jpg",
+              "RelativeToolTip": "MasjidAdminApp\\Properties\\1000_F_329615169_SwGTOJhkIZ69ihuS4JLwXN7rjmXCoZ26.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-24T09:56:54.569Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventarisForm.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InventarisForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\InventarisForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InventarisForm.cs",
+              "RelativeToolTip": "MasjidAdminApp\\InventarisForm.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAowNYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:25:07.627Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\App.config",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\App.config",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\App.config",
+              "RelativeToolTip": "MasjidAdminApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-13T05:42:10.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MasjidAdminApp",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidAdminApp.csproj",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidAdminApp.csproj",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidAdminApp.csproj",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidAdminApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-15T13:02:18.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputInventarisForm.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputInventarisForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\InputInventarisForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputInventarisForm.cs",
+              "RelativeToolTip": "MasjidAdminApp\\InputInventarisForm.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAswG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:38:45.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:57:27.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MasjidDB.dbml",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDB.dbml",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDB.dbml",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDB.dbml",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDB.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-10-24T11:51:38.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PengeluaranForm.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\PengeluaranForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\PengeluaranForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\PengeluaranForm.cs",
+              "RelativeToolTip": "MasjidAdminApp\\PengeluaranForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAwwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:40:35.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\Properties\\Resources.resx",
+              "RelativeToolTip": "MasjidAdminApp\\Properties\\Resources.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-24T05:44:46.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ButtonMasuk.png",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\Properties\\ButtonMasuk.png",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\Properties\\ButtonMasuk.png",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\Properties\\ButtonMasuk.png",
+              "RelativeToolTip": "MasjidAdminApp\\Properties\\ButtonMasuk.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-24T09:57:01.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PemasukanForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\PemasukanForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\PemasukanForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\PemasukanForm.cs [Design]",
+              "RelativeToolTip": "MasjidAdminApp\\PemasukanForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:47:21.987Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:57:30.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "desktop.ini",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\Properties\\desktop.ini",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\Properties\\desktop.ini",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\Properties\\desktop.ini",
+              "RelativeToolTip": "MasjidAdminApp\\Properties\\desktop.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2024-10-24T09:57:04.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\RegisterForm.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\RegisterForm.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:38:34.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\Program.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\Program.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\Program.cs",
+              "RelativeToolTip": "MasjidAdminApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:38:34.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\Properties\\Settings.settings",
+              "RelativeToolTip": "MasjidAdminApp\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-10-24T09:57:31.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PengurusForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\PengurusForm.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\PengurusForm.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\PengurusForm.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\PengurusForm.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:38:34.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MasjidDBDataSet11.xss",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet11.xss",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet11.xss",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet11.xss",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet11.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEQSURBVDhPpZIxDoIwFIYfbsAiNxBu4KKwMnMBmDyCJxFXndy4AHcgunADdGdAE4EwVV4pWqEgiV/y0uZ/7Z\u002B\u002B1wdjlGW5KYoiroN0IsYcEEIkdrZHfchPkmQbRREEQcDUBtd1wbIsMAxjz6Rvsiybp2lKDocjuWcPYfg7n75mxu4IyfOc7fo8WW6sBOI4DugLHVbrNVMbLuczXG9XCMPw2wAvse0bNBkCDXol4IU2pjDagyn0DPBZ/PoLaoC1i\u002BpH0EhkpqoqXWkT244PgQZ83jRN8DzvM0hoYNs2P6rvGNCbUa6ZoUBdOBRFEc5HVVUa5upYyrJ8Qo32oH1et4yurmnanW44/v5GaaiEaaUBvACMFdHTTBiv\u002BAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-24T09:38:34.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MasjidDBDataSet11.xsd",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet11.xsd",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet11.xsd",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet11.xsd",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet11.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-24T09:38:34.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MasjidDBDataSet11.xsc",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet11.xsc",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet11.xsc",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet11.xsc",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet11.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2024-10-24T09:38:34.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ResetPasswordForm.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\ResetPasswordForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\ResetPasswordForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\ResetPasswordForm.cs",
+              "RelativeToolTip": "MasjidAdminApp\\ResetPasswordForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:06:43.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MasjidDBDataSet11.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet11.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet11.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet11.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet11.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:38:34.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MasjidDBDataSet10.xss",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet10.xss",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet10.xss",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet10.xss",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet10.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEQSURBVDhPpZIxDoIwFIYfbsAiNxBu4KKwMnMBmDyCJxFXndy4AHcgunADdGdAE4EwVV4pWqEgiV/y0uZ/7Z\u002B\u002B1wdjlGW5KYoiroN0IsYcEEIkdrZHfchPkmQbRREEQcDUBtd1wbIsMAxjz6Rvsiybp2lKDocjuWcPYfg7n75mxu4IyfOc7fo8WW6sBOI4DugLHVbrNVMbLuczXG9XCMPw2wAvse0bNBkCDXol4IU2pjDagyn0DPBZ/PoLaoC1i\u002BpH0EhkpqoqXWkT244PgQZ83jRN8DzvM0hoYNs2P6rvGNCbUa6ZoUBdOBRFEc5HVVUa5upYyrJ8Qo32oH1et4yurmnanW44/v5GaaiEaaUBvACMFdHTTBiv\u002BAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-24T09:38:34.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MasjidDBDataSet10.xsd",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet10.xsd",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet10.xsd",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet10.xsd",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet10.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-24T09:38:34.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MasjidDBDataSet10.xsc",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet10.xsc",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet10.xsc",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet10.xsc",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet10.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2024-10-24T09:38:33.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MasjidDBDataSet10.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet10.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet10.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet10.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet10.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:38:33.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MasjidDBDataSet9.xss",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet9.xss",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet9.xss",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet9.xss",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet9.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEQSURBVDhPpZIxDoIwFIYfbsAiNxBu4KKwMnMBmDyCJxFXndy4AHcgunADdGdAE4EwVV4pWqEgiV/y0uZ/7Z\u002B\u002B1wdjlGW5KYoiroN0IsYcEEIkdrZHfchPkmQbRREEQcDUBtd1wbIsMAxjz6Rvsiybp2lKDocjuWcPYfg7n75mxu4IyfOc7fo8WW6sBOI4DugLHVbrNVMbLuczXG9XCMPw2wAvse0bNBkCDXol4IU2pjDagyn0DPBZ/PoLaoC1i\u002BpH0EhkpqoqXWkT244PgQZ83jRN8DzvM0hoYNs2P6rvGNCbUa6ZoUBdOBRFEc5HVVUa5upYyrJ8Qo32oH1et4yurmnanW44/v5GaaiEaaUBvACMFdHTTBiv\u002BAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-24T09:38:33.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MasjidDBDataSet9.xsd",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet9.xsd",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet9.xsd",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet9.xsd",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet9.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-24T09:38:33.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MasjidDBDataSet9.xsc",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet9.xsc",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet9.xsc",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet9.xsc",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet9.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2024-10-24T09:38:33.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MasjidDBDataSet9.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet9.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet9.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet9.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet9.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:38:33.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MasjidDBDataSet8.xss",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet8.xss",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet8.xss",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet8.xss",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet8.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEQSURBVDhPpZIxDoIwFIYfbsAiNxBu4KKwMnMBmDyCJxFXndy4AHcgunADdGdAE4EwVV4pWqEgiV/y0uZ/7Z\u002B\u002B1wdjlGW5KYoiroN0IsYcEEIkdrZHfchPkmQbRREEQcDUBtd1wbIsMAxjz6Rvsiybp2lKDocjuWcPYfg7n75mxu4IyfOc7fo8WW6sBOI4DugLHVbrNVMbLuczXG9XCMPw2wAvse0bNBkCDXol4IU2pjDagyn0DPBZ/PoLaoC1i\u002BpH0EhkpqoqXWkT244PgQZ83jRN8DzvM0hoYNs2P6rvGNCbUa6ZoUBdOBRFEc5HVVUa5upYyrJ8Qo32oH1et4yurmnanW44/v5GaaiEaaUBvACMFdHTTBiv\u002BAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-24T09:38:33.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MasjidDBDataSet8.xsd",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet8.xsd",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet8.xsd",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet8.xsd",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet8.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-24T09:38:33.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MasjidDBDataSet8.xsc",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet8.xsc",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet8.xsc",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet8.xsc",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet8.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2024-10-24T09:38:33.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\RegisterForm.cs",
+              "RelativeToolTip": "MasjidAdminApp\\RegisterForm.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T11:07:35.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PengurusForm.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\PengurusForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\PengurusForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\PengurusForm.cs",
+              "RelativeToolTip": "MasjidAdminApp\\PengurusForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:24:35.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ResetPasswordForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\ResetPasswordForm.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\ResetPasswordForm.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\ResetPasswordForm.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\ResetPasswordForm.Designer.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAcwHYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:34:25.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MasjidDBDataSet8.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet8.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet8.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet8.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet8.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:38:32.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MasjidDBDataSet7.xss",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet7.xss",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet7.xss",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet7.xss",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet7.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEQSURBVDhPpZIxDoIwFIYfbsAiNxBu4KKwMnMBmDyCJxFXndy4AHcgunADdGdAE4EwVV4pWqEgiV/y0uZ/7Z\u002B\u002B1wdjlGW5KYoiroN0IsYcEEIkdrZHfchPkmQbRREEQcDUBtd1wbIsMAxjz6Rvsiybp2lKDocjuWcPYfg7n75mxu4IyfOc7fo8WW6sBOI4DugLHVbrNVMbLuczXG9XCMPw2wAvse0bNBkCDXol4IU2pjDagyn0DPBZ/PoLaoC1i\u002BpH0EhkpqoqXWkT244PgQZ83jRN8DzvM0hoYNs2P6rvGNCbUa6ZoUBdOBRFEc5HVVUa5upYyrJ8Qo32oH1et4yurmnanW44/v5GaaiEaaUBvACMFdHTTBiv\u002BAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-24T09:38:32.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MasjidDBDataSet7.xsd",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet7.xsd",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet7.xsd",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet7.xsd",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet7.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-24T09:38:32.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MasjidDBDataSet7.xsc",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet7.xsc",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet7.xsc",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet7.xsc",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet7.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2024-10-24T09:38:32.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MasjidDBDataSet7.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet7.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet7.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet7.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet7.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:38:32.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MasjidDBDataSet6.xss",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet6.xss",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet6.xss",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet6.xss",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet6.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEQSURBVDhPpZIxDoIwFIYfbsAiNxBu4KKwMnMBmDyCJxFXndy4AHcgunADdGdAE4EwVV4pWqEgiV/y0uZ/7Z\u002B\u002B1wdjlGW5KYoiroN0IsYcEEIkdrZHfchPkmQbRREEQcDUBtd1wbIsMAxjz6Rvsiybp2lKDocjuWcPYfg7n75mxu4IyfOc7fo8WW6sBOI4DugLHVbrNVMbLuczXG9XCMPw2wAvse0bNBkCDXol4IU2pjDagyn0DPBZ/PoLaoC1i\u002BpH0EhkpqoqXWkT244PgQZ83jRN8DzvM0hoYNs2P6rvGNCbUa6ZoUBdOBRFEc5HVVUa5upYyrJ8Qo32oH1et4yurmnanW44/v5GaaiEaaUBvACMFdHTTBiv\u002BAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-24T09:38:32.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MasjidDBDataSet6.xsd",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet6.xsd",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet6.xsd",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet6.xsd",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet6.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-24T09:38:32.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "MasjidDBDataSet6.xsc",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet6.xsc",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet6.xsc",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet6.xsc",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet6.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2024-10-24T09:38:32.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "MasjidDBDataSet6.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet6.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet6.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet6.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet6.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:38:32.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MasjidDBDataSet5.xss",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet5.xss",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet5.xss",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet5.xss",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet5.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEQSURBVDhPpZIxDoIwFIYfbsAiNxBu4KKwMnMBmDyCJxFXndy4AHcgunADdGdAE4EwVV4pWqEgiV/y0uZ/7Z\u002B\u002B1wdjlGW5KYoiroN0IsYcEEIkdrZHfchPkmQbRREEQcDUBtd1wbIsMAxjz6Rvsiybp2lKDocjuWcPYfg7n75mxu4IyfOc7fo8WW6sBOI4DugLHVbrNVMbLuczXG9XCMPw2wAvse0bNBkCDXol4IU2pjDagyn0DPBZ/PoLaoC1i\u002BpH0EhkpqoqXWkT244PgQZ83jRN8DzvM0hoYNs2P6rvGNCbUa6ZoUBdOBRFEc5HVVUa5upYyrJ8Qo32oH1et4yurmnanW44/v5GaaiEaaUBvACMFdHTTBiv\u002BAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-24T09:38:32.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "MasjidDBDataSet5.xsd",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet5.xsd",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet5.xsd",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet5.xsd",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet5.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-24T09:38:32.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "MasjidDBDataSet5.xsc",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet5.xsc",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet5.xsc",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet5.xsc",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet5.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2024-10-24T09:38:32.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MasjidDBDataSet5.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet5.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet5.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet5.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet5.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:38:31.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "MasjidDBDataSet4.xss",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet4.xss",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet4.xss",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet4.xss",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet4.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEQSURBVDhPpZIxDoIwFIYfbsAiNxBu4KKwMnMBmDyCJxFXndy4AHcgunADdGdAE4EwVV4pWqEgiV/y0uZ/7Z\u002B\u002B1wdjlGW5KYoiroN0IsYcEEIkdrZHfchPkmQbRREEQcDUBtd1wbIsMAxjz6Rvsiybp2lKDocjuWcPYfg7n75mxu4IyfOc7fo8WW6sBOI4DugLHVbrNVMbLuczXG9XCMPw2wAvse0bNBkCDXol4IU2pjDagyn0DPBZ/PoLaoC1i\u002BpH0EhkpqoqXWkT244PgQZ83jRN8DzvM0hoYNs2P6rvGNCbUa6ZoUBdOBRFEc5HVVUa5upYyrJ8Qo32oH1et4yurmnanW44/v5GaaiEaaUBvACMFdHTTBiv\u002BAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-24T09:38:31.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "MasjidDBDataSet4.xsd",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet4.xsd",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet4.xsd",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet4.xsd",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet4.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-24T09:38:31.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "MasjidDBDataSet4.xsc",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet4.xsc",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet4.xsc",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet4.xsc",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet4.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2024-10-24T09:38:31.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "MasjidDBDataSet4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet4.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet4.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet4.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet4.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:38:31.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "MasjidDBDataSet3.xss",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet3.xss",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet3.xss",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet3.xss",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet3.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEQSURBVDhPpZIxDoIwFIYfbsAiNxBu4KKwMnMBmDyCJxFXndy4AHcgunADdGdAE4EwVV4pWqEgiV/y0uZ/7Z\u002B\u002B1wdjlGW5KYoiroN0IsYcEEIkdrZHfchPkmQbRREEQcDUBtd1wbIsMAxjz6Rvsiybp2lKDocjuWcPYfg7n75mxu4IyfOc7fo8WW6sBOI4DugLHVbrNVMbLuczXG9XCMPw2wAvse0bNBkCDXol4IU2pjDagyn0DPBZ/PoLaoC1i\u002BpH0EhkpqoqXWkT244PgQZ83jRN8DzvM0hoYNs2P6rvGNCbUa6ZoUBdOBRFEc5HVVUa5upYyrJ8Qo32oH1et4yurmnanW44/v5GaaiEaaUBvACMFdHTTBiv\u002BAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-24T09:38:31.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "MasjidDBDataSet3.xsd",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet3.xsd",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet3.xsd",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet3.xsd",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet3.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-24T09:38:31.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "MasjidDBDataSet3.xsc",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet3.xsc",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet3.xsc",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet3.xsc",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet3.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2024-10-24T09:38:31.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "MasjidDBDataSet3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet3.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet3.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet3.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet3.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:38:31.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "MasjidDBDataSet2.xss",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet2.xss",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet2.xss",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet2.xss",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet2.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEQSURBVDhPpZIxDoIwFIYfbsAiNxBu4KKwMnMBmDyCJxFXndy4AHcgunADdGdAE4EwVV4pWqEgiV/y0uZ/7Z\u002B\u002B1wdjlGW5KYoiroN0IsYcEEIkdrZHfchPkmQbRREEQcDUBtd1wbIsMAxjz6Rvsiybp2lKDocjuWcPYfg7n75mxu4IyfOc7fo8WW6sBOI4DugLHVbrNVMbLuczXG9XCMPw2wAvse0bNBkCDXol4IU2pjDagyn0DPBZ/PoLaoC1i\u002BpH0EhkpqoqXWkT244PgQZ83jRN8DzvM0hoYNs2P6rvGNCbUa6ZoUBdOBRFEc5HVVUa5upYyrJ8Qo32oH1et4yurmnanW44/v5GaaiEaaUBvACMFdHTTBiv\u002BAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-24T09:38:31.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "MasjidDBDataSet2.xsd",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet2.xsd",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet2.xsd",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet2.xsd",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet2.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-24T09:38:31.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "MasjidDBDataSet2.xsc",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet2.xsc",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet2.xsc",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet2.xsc",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet2.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2024-10-24T09:38:31.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "MasjidDBDataSet2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet2.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet2.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet2.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:38:30.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "MasjidDBDataSet1.xss",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet1.xss",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet1.xss",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet1.xss",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet1.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEQSURBVDhPpZIxDoIwFIYfbsAiNxBu4KKwMnMBmDyCJxFXndy4AHcgunADdGdAE4EwVV4pWqEgiV/y0uZ/7Z\u002B\u002B1wdjlGW5KYoiroN0IsYcEEIkdrZHfchPkmQbRREEQcDUBtd1wbIsMAxjz6Rvsiybp2lKDocjuWcPYfg7n75mxu4IyfOc7fo8WW6sBOI4DugLHVbrNVMbLuczXG9XCMPw2wAvse0bNBkCDXol4IU2pjDagyn0DPBZ/PoLaoC1i\u002BpH0EhkpqoqXWkT244PgQZ83jRN8DzvM0hoYNs2P6rvGNCbUa6ZoUBdOBRFEc5HVVUa5upYyrJ8Qo32oH1et4yurmnanW44/v5GaaiEaaUBvACMFdHTTBiv\u002BAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-24T09:38:30.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "MasjidDBDataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet1.xsd",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet1.xsd",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet1.xsd",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-24T09:38:30.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "MasjidDBDataSet1.xsc",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet1.xsc",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet1.xsc",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet1.xsc",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet1.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2024-10-24T09:38:30.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "MasjidDBDataSet1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet1.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet1.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet1.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:38:30.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "MasjidDBDataSet.xss",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet.xss",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet.xss",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet.xss",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEQSURBVDhPpZIxDoIwFIYfbsAiNxBu4KKwMnMBmDyCJxFXndy4AHcgunADdGdAE4EwVV4pWqEgiV/y0uZ/7Z\u002B\u002B1wdjlGW5KYoiroN0IsYcEEIkdrZHfchPkmQbRREEQcDUBtd1wbIsMAxjz6Rvsiybp2lKDocjuWcPYfg7n75mxu4IyfOc7fo8WW6sBOI4DugLHVbrNVMbLuczXG9XCMPw2wAvse0bNBkCDXol4IU2pjDagyn0DPBZ/PoLaoC1i\u002BpH0EhkpqoqXWkT244PgQZ83jRN8DzvM0hoYNs2P6rvGNCbUa6ZoUBdOBRFEc5HVVUa5upYyrJ8Qo32oH1et4yurmnanW44/v5GaaiEaaUBvACMFdHTTBiv\u002BAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-24T09:38:30.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "MasjidDBDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet.xsd",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet.xsd",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet.xsd",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-24T09:38:30.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "MasjidDBDataSet.xsc",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet.xsc",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet.xsc",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet.xsc",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2024-10-24T09:38:30.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "MasjidDBDataSet.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MasjidDBDataSet.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MasjidDBDataSet.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\MasjidDBDataSet.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:38:29.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "InputPengurusForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputPengurusForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\InputPengurusForm.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\source\\repos\\MasjidAdminApp\\MasjidAdminApp\\InputPengurusForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\PERSONAL\\source\\repos\\MasjidAdminApp\\MasjidAdminApp\\InputPengurusForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:14:22.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "InventarisForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InventarisForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\InventarisForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InventarisForm.cs [Design]",
+              "RelativeToolTip": "MasjidAdminApp\\InventarisForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T22:21:52.323Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\LoginForm.cs",
+              "RelativeToolTip": "MasjidAdminApp\\LoginForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:28:51.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "InputPemasukanForm.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputPemasukanForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\InputPemasukanForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputPemasukanForm.cs",
+              "RelativeToolTip": "MasjidAdminApp\\InputPemasukanForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:32:31.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "InputPengeluaranForm.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputPengeluaranForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\InputPengeluaranForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputPengeluaranForm.cs",
+              "RelativeToolTip": "MasjidAdminApp\\InputPengeluaranForm.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAMwF8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:17:50.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "InputPengurusForm.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputPengurusForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\InputPengurusForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputPengurusForm.cs",
+              "RelativeToolTip": "MasjidAdminApp\\InputPengurusForm.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAMwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:27:15.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "InputKegiatanForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputKegiatanForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\InputKegiatanForm.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\source\\repos\\MasjidAdminApp\\MasjidAdminApp\\InputKegiatanForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\PERSONAL\\source\\repos\\MasjidAdminApp\\MasjidAdminApp\\InputKegiatanForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:04:31.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "InputKegiatanForm.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputKegiatanForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\InputKegiatanForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputKegiatanForm.cs",
+              "RelativeToolTip": "MasjidAdminApp\\InputKegiatanForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:27:55.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "PengurusForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\PengurusForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\PengurusForm.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\source\\repos\\MasjidAdminApp\\MasjidAdminApp\\PengurusForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\PERSONAL\\source\\repos\\MasjidAdminApp\\MasjidAdminApp\\PengurusForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:49:13.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "MainFeatureForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MainFeatureForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MainFeatureForm.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\source\\repos\\MasjidAdminApp\\MasjidAdminApp\\MainFeatureForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\PERSONAL\\source\\repos\\MasjidAdminApp\\MasjidAdminApp\\MainFeatureForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:30:55.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "MainFeatureForm.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MainFeatureForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MainFeatureForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MainFeatureForm.cs",
+              "RelativeToolTip": "MasjidAdminApp\\MainFeatureForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:50:22.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ResetPasswordForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\ResetPasswordForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\ResetPasswordForm.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\source\\repos\\MasjidAdminApp\\MasjidAdminApp\\ResetPasswordForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\PERSONAL\\source\\repos\\MasjidAdminApp\\MasjidAdminApp\\ResetPasswordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:03:31.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\source\\repos\\MasjidAdminApp\\MasjidAdminApp\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\PERSONAL\\source\\repos\\MasjidAdminApp\\MasjidAdminApp\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:41:49.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ForgotPasswordForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\ForgotPasswordForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\ForgotPasswordForm.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\source\\repos\\MasjidAdminApp\\MasjidAdminApp\\ForgotPasswordForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\PERSONAL\\source\\repos\\MasjidAdminApp\\MasjidAdminApp\\ForgotPasswordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:42:17.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ForgotPasswordForm.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\ForgotPasswordForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\ForgotPasswordForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\ForgotPasswordForm.cs",
+              "RelativeToolTip": "MasjidAdminApp\\ForgotPasswordForm.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv0gAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:53:18.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\source\\repos\\MasjidAdminApp\\MasjidAdminApp\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\PERSONAL\\source\\repos\\MasjidAdminApp\\MasjidAdminApp\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T05:02:02.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\source\\repos\\MasjidAdminApp\\MasjidAdminApp\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\PERSONAL\\source\\repos\\MasjidAdminApp\\MasjidAdminApp\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:38:20.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MainForm.cs",
+              "RelativeToolTip": "MasjidAdminApp\\MainForm.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:55:17.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "KegiatanForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\KegiatanForm.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\KegiatanForm.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\KegiatanForm.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\KegiatanForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:36:06.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "InventarisForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InventarisForm.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\InventarisForm.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InventarisForm.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\InventarisForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:04:57.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "InputPemasukanForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputPemasukanForm.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\InputPemasukanForm.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputPemasukanForm.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\InputPemasukanForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:46:12.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\LoginForm.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:36:56.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "MainFeatureForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MainFeatureForm.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\MainFeatureForm.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\MainFeatureForm.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\MainFeatureForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:30:46.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "InputKegiatanForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputKegiatanForm.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\InputKegiatanForm.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputKegiatanForm.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\InputKegiatanForm.Designer.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAwGoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:45:12.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "InputInventarisForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputInventarisForm.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\InputInventarisForm.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputInventarisForm.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\InputInventarisForm.Designer.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAKkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:05:16.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "InputPengeluaranForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputPengeluaranForm.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\InputPengeluaranForm.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputPengeluaranForm.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\InputPengeluaranForm.Designer.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAJMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:49:48.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "InputPengurusForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputPengurusForm.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\InputPengurusForm.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\InputPengurusForm.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\InputPengurusForm.Designer.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAUwIMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:33:43.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "ForgotPasswordForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\ForgotPasswordForm.Designer.cs",
+              "RelativeDocumentMoniker": "MasjidAdminApp\\ForgotPasswordForm.Designer.cs",
+              "ToolTip": "C:\\Users\\alifq\\Downloads\\Migrasi Backup\\MasjidAdminApp\\MasjidAdminApp\\ForgotPasswordForm.Designer.cs",
+              "RelativeToolTip": "MasjidAdminApp\\ForgotPasswordForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T00:11:03.399Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
